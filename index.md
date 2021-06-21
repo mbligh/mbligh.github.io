@@ -4,4 +4,5 @@ this is a test
 - 4 5 6
 
 Where is my markdown
-=foo
+
+= foo
